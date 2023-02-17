@@ -1,0 +1,9 @@
+version: 2
+
+sourses:
+    - name: staging
+      database: dtc-de-375303.fhv
+      schema: 
+
+      tables:
+        - name: tripdata_partitoned_clustered
